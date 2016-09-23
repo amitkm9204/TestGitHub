@@ -1,2 +1,3 @@
 # TestGitHub
-Learning Github
+
+This is for practise purpose repository.
